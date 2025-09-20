@@ -40,8 +40,11 @@ make deploy
 ```
 ## Casting an account
 
+```
 cast wallet import account1 --interactive
-
+```
 ## Deploy to sepolia-testnet
 
+```
 make deploy-sepolia
+```
